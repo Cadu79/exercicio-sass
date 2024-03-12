@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+.produtos {
+  background-color: #f5f6fa;
+}
+
+body {
+  background-color: #f5f6fa;
+}
+
+/*# sourceMappingURL=main.css.map */
